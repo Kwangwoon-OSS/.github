@@ -46,7 +46,7 @@
 
 ### 1. Git clone
 ```shell
-git clone https://github.com/Kwangwoon-OSS/client
+git clone https://github.com/Kwangwoon-OSS/front
 
 ```
 
@@ -54,7 +54,7 @@ git clone https://github.com/Kwangwoon-OSS/client
 
 ### 1. Git clone
 ```shell
-git clone https://github.com/Kwangwoon-OSS/server
+git clone https://github.com/Kwangwoon-OSS/backend
 
 ```
 
