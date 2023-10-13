@@ -62,7 +62,7 @@ git clone https://github.com/Kwangwoon-OSS/server
   
   ### 🧑‍🤝‍🧑 투게더 🧑‍🤝‍🧑
 
-|<img src="https://avatars.githubusercontent.com/u/43674053?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/64678476?v=4" width="80">|<img src ="https://avatars.githubusercontent.com/u/113542209?v=4" width="80">|<img src=https://avatars.githubusercontent.com/u/46856766?v=4" width="80">|
+|<img src="https://avatars.githubusercontent.com/u/43674053?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/64678476?v=4" width="80">|<img src ="https://avatars.githubusercontent.com/u/113542209?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/46856766?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
 |[kwongio](https://github.com/kwongio)|[GYUTAE PARK](https://github.com/doraemon500)|[bjPark98](https://github.com/bjPark98)|[Youngbae1126](https://github.com/Youngbae1126)|
 |**Team Leader**<br>Back-end | Back-end | Front-end | Front-end |
