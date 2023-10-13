@@ -41,7 +41,7 @@
 
 ## 🖥️ How To Set Up?
 
-### [Client](https://github.com/Kwangwoon-OSS/client)
+### [Front-end](https://github.com/Kwangwoon-OSS/front-end)
 
 
 ### 1. Git clone
@@ -50,7 +50,7 @@ git clone https://github.com/Kwangwoon-OSS/client
 
 ```
 
-### [Server](https://github.com/Kwangwoon-OSS/server)
+### [BACK-END](https://github.com/Kwangwoon-OSS/back-end)
 
 ### 1. Git clone
 ```shell
