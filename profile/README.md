@@ -1,12 +1,12 @@
 # 🏫🤝 대학생 팀플 모집 웹 서비스 <투게더> 🤝🏫
 
 <img src="https://img.shields.io/badge/GitHub-black?logo=github"> <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/React-brightgreen?logo=react&logoColor=white"><img src="https://img.shields.io/badge/Spring-brightgreen?logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Figma-brightgreen?logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Notion-lightgrey?logo=notion&logoColor=white">
 
 <br>
 
-## Why this Project?
+## 🔴Why this Project?
 
 대학 수업에서 팀을 구성해야 할 때, 주로 대학생 커뮤니티인 ‘에브리타임’ 자
 유게시판에서 팀원을 찾는 경우가 많다. 그러나 에브리타임에는 팀원 모집에 
@@ -21,13 +21,13 @@
 자 한다. 초기에는 광운대 학생들을 대상으로 한 범위에서 개발을 시작하고, 나중에는 각 대학교의 상황에 맞게 수정하여 확장가능 한 웹 서비스로 개발할 
 계획이다
 
-## Program feature
+## 🟠Program feature
 
 - 학교 수업내에 팀플 과제를 위한 인원을 구인하는것이 제일 큰 목적
 - 프로필 페이지를 이용해 본인에 대한 소개를 다른사람들에게 알리는 것이 가능함
 - 교내 학과 분류에 따른 필터를 제공함으로서 가시성이 좋고 찾는데 용이함을 줄 수 있음
 
-## Tech-stack
+## 🟡Tech-stack
 
 프론트엔드 (FE) – HTML, CSS、Javascript, React
 <br>
