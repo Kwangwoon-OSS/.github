@@ -58,6 +58,10 @@ git clone https://github.com/Kwangwoon-OSS/server
 
 ```
 
+### 2. Swagger
+http://together-env.eba-idjepbda.ap-northeast-2.elasticbeanstalk.com/swagger-ui/index.html
+
+
 <div align="center">
   
   ### 🧑‍🤝‍🧑 투게더 🧑‍🤝‍🧑
@@ -70,7 +74,31 @@ git clone https://github.com/Kwangwoon-OSS/server
    </div>
   
   <br>
-  
+
+## 기여
+```json
+[
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    },
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    },
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    }
+]
+```
+
 ## 🧾 License
  This project is licensed under the terms of the MIT license.
 
