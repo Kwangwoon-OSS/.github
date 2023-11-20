@@ -76,6 +76,8 @@ http://together-env.eba-idjepbda.ap-northeast-2.elasticbeanstalk.com/swagger-ui/
   <br>
 
 ## 기여
+[Issue](https://github.com/Kwangwoon-OSS/.github/issues/1#issue-2002125182)에 학교명으로 데이터를 올려주세요!
+
 ```json
 [
     {
