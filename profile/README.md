@@ -17,10 +17,10 @@
 <br>
 
 ### ⚙️ 개발 환경
-- `Java 8`
+- `Java 17`
 - **IDE** : Visual Studio Code
 - **Framework** : Springboot
-- **Database** : Mysql
+- **Database** : MySql
 - **Browser** : Chrome
 <br>
 
