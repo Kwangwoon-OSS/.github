@@ -61,8 +61,9 @@
 <br>
 
 ## 🖥️ How To Set Up?
-### <a href = "https://kw-together.netlify.app/">투게더 사이트</a>
-<br>
+### 😀<a href = "https://kw-together.netlify.app/">투게더 사이트</a>
+
+
 ### [Front-end](https://github.com/Kwangwoon-OSS/front-end)
 
 
