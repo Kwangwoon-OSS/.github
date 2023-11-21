@@ -73,7 +73,7 @@ git clone https://github.com/Kwangwoon-OSS/front
 
 ```
 
-### [BACK-END](https://github.com/Kwangwoon-OSS/back-end)
+### [Back-end](https://github.com/Kwangwoon-OSS/back-end)
 
 ### Git clone
 ```shell
@@ -91,6 +91,36 @@ git clone https://github.com/Kwangwoon-OSS/backend
 |**Team Leader**<br>Back-end | Back-end | Front-end | Front-end |
   
    </div>
+  
+  <br>
+
+  <br>
+
+## 🤗 기여
+[Issue](https://github.com/Kwangwoon-OSS/.github/issues/1#issue-2002125182)에 학교명으로 데이터를 올려주세요!
+
+```json
+[
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    },
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    },
+    {
+        "school": "학교명",
+        "department": "학과명",
+        "professor": "교수명",
+        "subject": "수업명"
+    }
+]
+```
   
   <br>
   
